@@ -1,0 +1,3 @@
+# mongoDBConn Olá
+
+Neste projecto criarei um banco de dados NoSql MongoDB e inseri dados nele...
